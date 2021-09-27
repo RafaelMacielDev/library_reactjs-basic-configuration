@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="JavaScript_ES6_Adv_tests" src=".github/demostration_aplication_0.png" width="320px" />
+  <img alt="" title="JavaScript_ES6_Adv_tests" src=".github/demostration_aplication_0.gif" width="320px" />
   <br>
   ReactJS - Basic Initialization and Configuration
 </h1>
