@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="justify">
-Didactic demonstration of launching and configuring an app with the ReactJS library. Credits for the Digital Innovation One JavaScript ES6 Advanced module.
+Didactic demonstration of launching and configuring an app with the ReactJS library. Credits for the Digital Innovation One ReactJS Introduction module.
 </h3>
 
 <br>
